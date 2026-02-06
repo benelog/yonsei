@@ -1,0 +1,39 @@
+baseURL = "https://yonsei.benelog.net/"
+languageCode = "ko-kr"
+title = "연세 상경 97"
+theme = "hugo.386k"
+
+[taxonomies]
+   tag = "tags"
+   categories = "categories"
+
+[params]
+    mainpagetitle = "연세 상경 97 재상봉 행사 안내"
+    mainpagesubtitle = "2026년 5월 9일(토), 연세대학교 신촌 캠퍼스"
+    showhugo = true
+    loadonepass = true
+
+[permalinks]
+  post = ":filename/"
+
+[menu]
+  # This displays buttons in the navbar to access your contents
+[[menu.main]]
+    identifier = "event"
+    name = "행사 안내"
+    url = "/event/"
+    weight = 10
+  [[menu.main]]
+    identifier = "donation"
+    name = "기부금"
+    url = "/donation/"
+    weight = 15
+  [[menu.main]]
+    identifier = "posts"
+    name = "모든 글"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 20
+  [[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 30
