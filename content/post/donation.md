@@ -1,6 +1,6 @@
 ---
 title: "기부금 안내"
-description: "경영/경제/응용통계학과 기부금 모금 안내"
+description: "상경계열 97학번 대상 기부금 모금 안내"
 aliases: ["donation"]
 date: 2026-02-06
 ---
