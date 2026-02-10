@@ -20,6 +20,11 @@ date: 2026-02-06
            * [동문 연락처 시스템](https://alumniservice.yonsei.ac.kr/update/)에서 현재 주소를 업데이트해주세요. 
     * 행사 기념 문집에 기부자로 이름이 올라갑니다. 
 
+동문 연락처 시스템 접속 QR
+
+![](/address-update.png)
+
+
 ## 학과 기부금
 경영/경제/응용통계 학과별 발전에 쓰일 기부금입니다.
 
@@ -39,4 +44,8 @@ date: 2026-02-06
     * 예시 : '이지은4(8반)'
 
 ## 참고 자료
-* [기부금 세재 혜택 상세 안내](https://fund.yonsei.ac.kr/fro_end/html/dep_03/3300.php) (연세대학교 홈페이지)
+* [기부금 세제 혜택 상세 안내](https://fund.yonsei.ac.kr/fro_end/html/dep_03/3300.php) (연세대학교 홈페이지)
+
+세제 혜택 안내 QR
+
+![](/tax-benefit.png)
